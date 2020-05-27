@@ -1,0 +1,2 @@
+# sidebarAnimation
+Expanding sidebar, animation
